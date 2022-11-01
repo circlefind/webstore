@@ -1,7 +1,5 @@
 # Webstore Front-End for user
 
-Mas Dendi Priyono
-
 ## Install the dependencies
 ```bash
 npm install
