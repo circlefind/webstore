@@ -1,6 +1,6 @@
-# Webstore (webstore)
+# Webstore Front-End for user
 
-addlist.co.id
+Mas Dendi Priyono
 
 ## Install the dependencies
 ```bash
